@@ -1,5 +1,5 @@
 # MNIST-Logistic-Adam
-Classified MNIST dataset using logistic regression
+## Classified MNIST dataset using logistic regression, using the Adam optimizer
 
 Code source: [Logistic Regression using SGD](https://jvn.io/aakashns/a1b40b04f5174a18bd05b17e3dffb0f0)
 
